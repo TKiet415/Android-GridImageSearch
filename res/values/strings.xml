@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Google Image Search</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="button_search">Search</string>
+    <string name="search_field">Enter your search</string>
+    <string name="set_filters">Filter Settings</string>
+    <string name="title_activity_image_display">Image Display</string>
+    <string name="title_activity_set_filters">Set Filters</string>
+    <string name="image_size_string">Image Size</string>
+    <string name="colors_string">Color Filter</string>
+    <string name="filter_settings">Advanced Search Options</string>
+    <string name="image_type_string">Image Type</string>
+    <string name="site_filter_string">Site Filter</string>
+    <string name="site_hint">Enter the website</string>
+    <string name="button_save">Save Filter Settings and Search</string>
+	<string name="clear_all_filters">Clear All Filters</string>
+    <string name="search_for_string">Search For:</string>
+    <string name="search_hint">Type of Image?</string>
+	<string name="action_send_or_save">Send or Save</string>
+	<string name="action_email">Share image</string>
+    <string name="action_save_image">Save image</string>
+	<string name="content_description">Image loaded</string>
+	
+</resources>
